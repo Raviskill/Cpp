@@ -11,4 +11,6 @@ int main()
 
   cout<<"total:-"<<total;
   return 0;
+
+  
 } 
