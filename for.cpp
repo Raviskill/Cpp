@@ -7,4 +7,5 @@ int main()
     {
         printf("%d",i);ṇ
     }
+    return 0;
 }
