@@ -19,7 +19,7 @@ public:
         cin >> eng; 
         cout << "enter math is:"; 
         cin >> math; 
-        cout << "enter sci is:"; 
+        cout << "e2nter sci is:"; 
         cin >> sci; 
         cout << endl; 
     } 
