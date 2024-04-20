@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Cpp-1",
-      "program": "d:/Cpp-1/build/Debug/outDebug",
+      "cwd": "d:/Cpp-2",
+      "program": "d:/Cpp-2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
